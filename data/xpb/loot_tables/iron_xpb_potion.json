@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honey_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{iron_xpb:1b,display:{Name:'{\"text\":\"Iron Xpansion Potion\",\"italic\":true, \"bold\": true, \"color\":\"gray\"}', Lore:['{\"text\":\"-10 levels\", \"color\": \"red\"}','{\"text\":\"+10 border\", \"color\": \"green\"}']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

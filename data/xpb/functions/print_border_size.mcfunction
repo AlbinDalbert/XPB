@@ -1,0 +1,1 @@
+tellraw @a ["Border Is Now: ",{"score":{"name":"const","objective":"current_border_size"},"color":"yellow"}]

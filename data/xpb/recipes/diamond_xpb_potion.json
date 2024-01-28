@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cDc",
+        "gCg",
+        "cgc"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "C": {
+            "item": "minecraft:compass"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

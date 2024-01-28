@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "xpb:iron_xpb_potion"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xpb:iron_xpb_potion"
+  }
+}

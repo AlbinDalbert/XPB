@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "xpb:diamond_xpb_potion"
+      }
+    }
+  },
+  "rewards": {
+    "function": "xpb:diamond_xpb_potion"
+  }
+}

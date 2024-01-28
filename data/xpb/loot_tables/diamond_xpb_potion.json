@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honey_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{diamond_xpb:1b,display:{Name:'{\"text\":\"Diamond ReZenter Potion\",\"italic\":true, \"bold\": true, \"color\":\"aqua\"}', Lore:['{\"text\":\"Re-center\", \"color\": \"aqua\"}','{\"text\":\"World Border\", \"color\": \"green\"}','{\"text\":\"World Spawn\", \"color\": \"green\"}','{\"text\":\"~ ~ ~\", \"color\": \"aqua\"}',]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

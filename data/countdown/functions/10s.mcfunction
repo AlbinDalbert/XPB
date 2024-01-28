@@ -1,0 +1,2 @@
+title @a title {"text": "10 seconds left","bold":true,"color":"red","italic":true,"underlined":true,"scale":10}
+title @a subtitle {"text": "","bold":true,"color":"yellow","italic":true,"underlined":true,"scale":10}
