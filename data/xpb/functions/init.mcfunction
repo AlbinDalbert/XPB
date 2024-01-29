@@ -32,6 +32,7 @@ scoreboard objectives add lvl level "lvl"
 scoreboard objectives add old_death dummy "old death"
 scoreboard objectives add death deathCount "death"
 
+gamerule randomTickSpeed 6
 scoreboard objectives setdisplay sidebar
 scoreboard players operation @a old_lvl = @a lvl
 scoreboard players operation @a old_death = @a death
